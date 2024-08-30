@@ -6,7 +6,7 @@
 
 This course covers the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision that enable robots to physically manipulate objects. During the first part of this course, students will learn to implement, train and debug their own neural networks. During the second part of this course, students will explore recent emerging topics in deep learning for robot perception and manipulation. This exploration will include analysis of research publications in the area, building up to reproducing one of these publications for implementation as a final course project.
 
-This course is being offered at the University of Minnesota ([Karthik Desingh](https://karthikdesingh.com/).
+This course is being offered at the University of Minnesota ([Karthik Desingh](https://karthikdesingh.com/)).
 
 This course is being offered through a Distributed Teaching Collaborative between faculty at [the University of Minnesota](https://twin-cities.umn.edu/) ([Karthik Desingh](https://karthikdesingh.com/)) and [the University of Michigan](https://umich.edu/) ([Anthony Opipari](https://topipari.com), [Xiaoxiao Du](https://xiaoxiaodu.net/), [Chad Jenkins](https://ocj.name/))
 
