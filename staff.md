@@ -19,12 +19,12 @@ description: A directory of the teaching staff for Deep Learning for Robot Perce
 </div>
 <div markdown="1" class="staff-column">
 
-## Collaborating Instructors
+<!-- ## Collaborating Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Collaborating Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
-{% endfor %}
+{% endfor %} -->
 
 </div>
 </div>

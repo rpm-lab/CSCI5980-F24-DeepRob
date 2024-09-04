@@ -38,12 +38,12 @@ This course builds on and is indebted to these existing courses (as a “star”
 </div>
 <div markdown="1" class="staff-column">
 
-## Collaborating Instructors
+<!-- ## Collaborating Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Collaborating Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
-{% endfor %}
+{% endfor %} -->
 
 </div>
 </div>
