@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Deep Rob
-tagline: CSCI5980 - Deep Learning for Robot Perception and Manipulation
+tagline: CSCI5980 - Deep Learning for Robot Manipulation
 description: This course covers the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision that enable robots to physically manipulate objects
 author: Anthony Opipari, Karthik Desingh
-baseurl: '/CSCI5980-Spr23-DeepRob' # the subpath of your site, e.g. /blog
+baseurl: '/CSCI5980-F24-DeepRob' # the subpath of your site, e.g. /blog
 url: 'https://rpm-lab.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: "/assets/logos/favicons/UMinn_favicon_dark.png"
