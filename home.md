@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /
 ---
 
-# Deep Learning for Robot Perception and Manipulation
+# Deep Learning for Robot Manipulation
 ## CSCI5980 Fall 2024 at The University of Minnesota - Twin Cities
 {: .fs-6 .fw-300 }
 ## M, W 9:45AM-11:00PM CT - Applebay Hall 102 
