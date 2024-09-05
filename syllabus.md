@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-description: Course policies and information pertaining to Deep Learning for Robot Perception and Manipulation at the University of Minnesota.
+description: Course policies and information pertaining to Deep Learning for Robot Manipulation at the University of Minnesota.
 nav_order: 2
 ---
 
@@ -20,53 +20,41 @@ nav_order: 2
 
 Robots need to see and understand their world to be able to interact with objects and perform useful tasks autonomously. Perception is the essential first step in the process for endowing robots to perform autonomously.  Autonomous robots need to make sense of their sensory observations to represent the world around them – and enable their reasoning and action to a goal. Visual perception with cameras as sensors has matured due to the recent advancements in neural networks – which is especially true for performing visual recognition tasks such as object classification, detection, pose estimation, grasp pose detection, etc. 
 
-This course aims to cover the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision and enabling – for enabling robots to dexterously manipulate physical objects. During the first part of this course, students will learn to implement, train and debug their own neural networks. During the second part of this course, students will explore recent emerging topics in deep learning for robot perception and manipulation.  This exploration will include analysis of research publications in the area, building up to reproducing one of these publications for implementation as a final course project.
+This course aims to cover the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision and enabling – for enabling robots to dexterously manipulate physical objects. During the first part of this course, students will learn to implement, train and debug their own neural networks. During the second part of this course, students will explore recent emerging topics in deep learning for robot manipulation.  This exploration will include analysis of research publications in the area, building up to reproducing one of these publications for implementation as a final course project.
 
 This course builds on and is indebted to these existing courses (as a “star” and a "fork" in the open source sense):
+- [University of Michigan - ROB 498-011 & 599-011: Deep Learning for Robot Perception](https://deeprob.org/w24/){:target="_blank"} instructed by [Xiaoxiao Du](https://xiaoxiaodu.net/){:target="_blank"}, [Anthony Opipari](https://topipari.com){:target="_blank"}, and [Chad Jenkins](https://ocj.name/){:target="_blank"}
+- [University of Minnesota - CSCI5980: Deep Learning for Robot Perception and Manipulation](https://rpm-lab.github.io/CSCI5980-Spr23-DeepRob){:target="_blank"} instructed by [Karthik Desingh](https://karthikdesingh.com/){:target="_blank"}, in collaboration with [Anthony Opipari](https://topipari.com){:target="_blank"} and [Chad Jenkins](https://ocj.name/){:target="_blank"} from the University of Michigan.
 - [University of Michigan - EECS 498-007 / 598-005: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html){:target="_blank"} instructed by [Justin Johnson](https://web.eecs.umich.edu/~justincj/){:target="_blank"}
 - [Stanford - CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/index.html){:target="_blank"} instructed by [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li){:target="_blank"} and [Andrej Karpathy](https://karpathy.ai/){:target="_blank"}
 
-
 ## Topics and Course Structure
 
-The first half of the course will cover deep learning fundamentals in computer vision catered to robot perception problems.
+The first half of the course will cover deep learning fundamentals leaning toward computer vision tasks catered to robot perception problems.
 
-- Image classification
-- Linear classifiers
+- Image classification, Linear classifiers
 - Regularization and optimization
-- Neural networks
-- Backpropagation
-- Convolutional neural networks
-- CNN architectures
+- Fully-connected neural networks, Backpropagation
+- Convolutional neural networks, Network architectures
 - Training neural networks
-- Deep learning software (PyTorch)
 - Object detection
 - Semantic segmentation 
-
+- Imitation learning
 
 The second half of the course will switch to seminar style covering following advanced topics in robot perception and manipulation via discussing publications.
 
 - RGBD perception and network architectures
-  - RGBD sensor data processing
-  - RGBD datasets and applications
-  - Object segmentation using RGBD data
-- Object perception
+- Transformer architecture(s)
+- Object perception for robot manipulation
   - Rigid object perception
   - Instance-level object pose estimation
   - Category-level object pose Estimation
   - Dense object descriptors
-- 3D perception
-  - Neural network architectures for 3D data (PointNet and PointNet++)
-  - Implicit surfaces and geometry
-  - Neural radiance fields (NeRF)
-  - Object descriptor fields for grasping and manipulation
-- Temporal networks and object tracking
-- Transformer architecture(s)
+  - Grasp pose estimation
 - Visual pre-training for robot manipulation
-- Visual odometry and localization
-- Tactile perception for robot grasping and manipulation
+- Diffusion models for policy learning
 - Visual-Language models
-- Policy learning for robot manipulation
+- Multimodal learning for robot manipulation
 
 
 ## Prerequisites
@@ -86,50 +74,58 @@ The second half of the course will switch to seminar style covering following ad
 
 There is no required textbook for this course, however optional readings will be suggested from the textbook, ["Deep Learning" by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org){:target="_blank"}.
 
+For additional references, consider the following textbooks:
+
+“[Introduction to Robotics and Perception](https://www.roboticsbook.org/)” by Frank Dellaert and Seth Hutchinson
+“[Robotics, Vision and Control](https://link.springer.com/book/10.1007/978-3-642-20144-8)” by Peter Corke
+“[Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)” by Richard Szeliski
+“[Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/)” by Antonio Torralba, Phillip Isola, and William T. Freeman
+
 ## Lectures
 
-Lectures will take place in-person on **Tuesdays and Thursdays from 2:30-3:45 PM CT in Rapson Hall 58**. 
+Lectures will take place in-person on **Mondays and Wednesdays from 9:45-11:00 AM CT in Appleby Hall 102**. 
 Remote access will be made available for the following reasons:
 - Weather impediment: Zoom link will be sent out via email prior to the lecture
 - Health reasons: Email kdesingh@umn.edu before the lecture with the reason to attend via Zoom, to obtain the meeting ID and password. 
 
 ## Discussion Sections
 
-There will be no discussion section for this class. However, I will link to the discussion posted by instructors from the University of Michigan after every Thursday's lecture to the calendar. Students are encouraged to see view them.
+There will be no discussion section for this class. 
 
 ## Programming Projects
 
-You will complete 5 programming [projects](/CSCI5980-Spr23-DeepRob/projects/) over the course of the semester. All projects will be implemented using Python, Pytorch and Google Colab.
+You will complete 5 programming [projects](/CSCI5980-F24-DeepRob/projects/) over the course of the semester. All projects will be implemented using Python, Pytorch and Google Colab.
 
 ## Final Project
 
 Instead of a final exam at the end of the semester, you will complete a final project working in groups of 1 to 3 students.
 
-The final project will entail five core deliverables: (1) a written review of a paper (2) an in-class paper presentation, (3) reproducing the published results of an existing deep learning paper, (4) extending the chosen paper's methods and (5) documenting your reproduction and extension in a written report.
+[TODO] The final project will entail several core deliverables: (1) an in-class team lecture with background and a paper in detail, (2) creating a real-world or simulation setup for robot manipulation task to facilitate data acquisition, (3) neural network architecture development, (4) training objectives and strategies, (5) evaluation of the performance, (6) Video and poster presentation.
 
 The objective of the final project is for you to gain experience with state of the art approaches in deep learning and a sense of how research in the area is conducted.
 
 ## Quizzes
 
-Throughout the semester, there will be a total of 16 quizzes administered through [gradescope](https://www.gradescope.com/courses/481744){:target="_blank"}. These quizzes will be posted before lecture sections throughout the semester and be available to take until the beginning of lecture that same day. Quizzes will be released at 7:00AM CT and must be submitted by 2:30PM CT. Each quiz will have a 15 minute time limit. Each quiz will consist of 1 or 2 short questions within the scope of previously covered lectures and graded projects.
+Throughout the semester, there will be a total of 16 quizzes administered through [gradescope](){:target="_blank"}. These quizzes will be posted before lecture sections throughout the semester and be available to take until the beginning of lecture that same day. Quizzes will be released at 6:00AM CT and must be submitted by 2:30PM CT. Each quiz will have a 15 minute time limit. Each quiz will consist of 1 or 2 short questions within the scope of previously covered lectures and graded projects.
 
 ## Grading Policy
 
 Course grades will be determined according to the following criteria:
 
- - Project 0:     12%
- - Project 1:     12%
- - Project 2:     12%
- - Project 3:     12%
- - Project 4:     12%
+ - Project 1 (Linear classfication):         5%
+ - Project 2 (Fully-connected and CNNs) :   10%
+ - Project 3 (Object detection with CNNs):  10%
+ - Project 4 (Object pose estimation):      10%
+ - Project 5 (Imitation learning):          10%
+ 
  - Final Project:
-   - Project proposal document: 2%
-   - In-class presentation on research topic-paper(s): 4%
-   - Paper Reproduction: 12%
-      - Algorithmic extension to obtain results on new data/idea/technique
-   - Video and poster: 4%
-   - Final report: 2%
- - 16 Pre-Lecture Quizzes: 16% (1% each)
+   - In-class presentation background:       5%
+   - In-class presentation paper in detail:  5%
+   - Data acquisition/Simulation setup:     10%
+   - Network development:                    5%
+   - Training strategy:                     10%
+   - Video and poster:                      10%
+ - 20 Pre-Lecture Quizzes:                  10% (0.5% each)
 
 ## Collaboration Policy
 
@@ -142,6 +138,6 @@ If you have a disability for which you are or may be requesting an accommodation
 
 ## Discussion Forum
 
-The [Ed Stem](https://edstem.org/us/courses/31008/discussion/){:target="_blank"} discussion forum is available for discussion of course materials including lectures and projects. This forum will be shared across course offerings at the University of Michigan and the University of Minnesota. <b>Students are not required to participate, use or join the Ed Stem forum.</b> Students may opt-in to join the forum using this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSelLeqIUKBxQvqqp6LFs2fSYfzy9D_QCcvtXc302hnm6oF1EA/viewform?usp=sharing){:target="_blank"}.
+The [Ed Stem](){:target="_blank"} discussion forum is available for discussion of course materials including lectures and projects. 
 
 <b>Any discussion of quizzes and verbatim code on the Ed Stem forum must be posted privately.</b>

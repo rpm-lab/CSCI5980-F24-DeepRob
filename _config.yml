@@ -31,14 +31,14 @@ permalink: pretty
 aux_links_new_tab: true
 aux_links:
   Forum:
-    - 'https://edstem.org/us/courses/31008/discussion/'
+    - 'https://edstem.org/us/courses/66160/discussion/'
   Autograder:
-    - 'https://cse-ag-csci5980.cs.umn.edu/web/course/2'   
-  Gradescope:
-    - 'https://www.gradescope.com/courses/481744'  
+    - 'https://cse-ag-csci5980.cs.umn.edu/web/course/3'   
+  # Gradescope:
+  #   - 'https://www.gradescope.com/courses/481744'  
   RPM Lab:
     - 'https://rpm-lab.github.io/'   
-  '<img src="/CSCI5980-Spr23-DeepRob//assets/logos/MnRI_logo.png" class="nav-img">':
+  '<img src="/CSCI5980-F24-DeepRob//assets/logos/MnRI_logo.png" class="nav-img">':
     - 'https://cse.umn.edu/mnri'
 
 # Collections for website data
