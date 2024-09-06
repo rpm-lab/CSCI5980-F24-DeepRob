@@ -25,21 +25,13 @@ permalink: /
 </div>
 </div>
 
-
-<!-- # Deep Learning for Robot Manipulation
-## CSCI5980 Fall 2024 at The University of Minnesota - Twin Cities
-{: .fs-6 .fw-300 } -->
 ## Meeting Time: M, W 9:45AM-11:00PM CT - Applebay Hall 102
-<!-- {: .fs-5 .fw-300 } -->
-
-<!-- This website describes a course still in development to be offered in the Spring 2023 semester.
-{: .text-red-300 .bg-yellow-200 .fs-4 .fw-500} -->
 
 This course covers the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision that enable robots to physically manipulate objects. During the first part of this course, students will learn to implement, train and debug their own neural networks. During the second part of this course, students will explore recent emerging topics in deep learning for robot perception and manipulation. This exploration will include analysis of research publications in the area, building up to reproducing one of these publications for implementation as a final course project.
 
-This course is being offered at the University of Minnesota ([Karthik Desingh](https://karthikdesingh.com/)).
+This course is being offered at the University of Minnesota in the Fall of 2024 ([Karthik Desingh](https://karthikdesingh.com/)).
 
-This course is being developed-maintained-offered through a Distributed Teaching Collaborative between faculty at [the University of Minnesota](https://twin-cities.umn.edu/) ([Karthik Desingh](https://karthikdesingh.com/)) and [the University of Michigan](https://umich.edu/) ([Anthony Opipari](https://topipari.com), [Xiaoxiao Du](https://xiaoxiaodu.net/), [Chad Jenkins](https://ocj.name/))
+This course is being developed-maintained-offered through a **Distributed Teaching Collaborative** between faculty at [the University of Minnesota](https://twin-cities.umn.edu/) ([Karthik Desingh](https://karthikdesingh.com/)) and [the University of Michigan](https://umich.edu/) ([Anthony Opipari](https://topipari.com), [Xiaoxiao Du](https://xiaoxiaodu.net/), [Chad Jenkins](https://ocj.name/))
 
 
 This course builds on and is indebted to these existing courses (as a “star” and a "fork" in the open source sense):
