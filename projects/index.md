@@ -20,27 +20,27 @@ has_toc: false
 --- -->
 
 
-## [Project 0](/CSCI5980-F24-DeepRob/projects/index/)
+## [Project 0](/CSCI5980-F24-DeepRob/projects/)
 
 Introduction to Python, PyTorch and Google Colab
 
-## [Project 1](/CSCI5980-F24-DeepRob/projects/index/)
+## [Project 1](/CSCI5980-F24-DeepRob/projects/)
 
 Classification using K-Nearest Neighbors and Linear Models
 
-## [Project 2](/CSCI5980-F24-DeepRob/projects/index/)
+## [Project 2](/CSCI5980-F24-DeepRob/projects/)
 
 Classification using Fully-connected and Convolutional Neural Networks
 
-## [Project 3](/CSCI5980-F24-DeepRob/projects/index/)
+## [Project 3](/CSCI5980-F24-DeepRob/projects/)
 
 Detection using Convolutional Neural Networks
 
-## [Project 4](/CSCI5980-F24-DeepRob/projects/index/)
+## [Project 4](/CSCI5980-F24-DeepRob/projects/)
 
 State Estimation with Deep Learning
 
-## [Project 5](/CSCI5980-F24-DeepRob/projects/index/)
+## [Project 5](/CSCI5980-F24-DeepRob/projects/)
 
 Imitation Learning
 
