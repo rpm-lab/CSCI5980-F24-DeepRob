@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Staff
-description: A directory of the teaching staff for Deep Learning for Robot Perception and Manipulation at the University of Minnesota.
+description: A directory of the teaching staff for Deep Learning for Robot Manipulation at the University of Minnesota.
 ---
 
 # Staff

@@ -22,6 +22,8 @@ Robots need to sense and understand their world to be able to interact with obje
 
 This course covers the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision that enable robots to physically manipulate objects. During the first part of this course, students will learn to implement, train and debug their own neural networks. During the second part of this course, students will explore recent emerging topics in deep learning for robot perception and manipulation. This exploration will include analysis of research publications in the area of robot manipulation, building up to reproducing one of these publications for implementation as a final course project.
 
+This course is being developed-maintained-offered through a **Distributed Teaching Collaborative** between faculty at [the University of Minnesota](https://twin-cities.umn.edu/) ([Karthik Desingh](https://karthikdesingh.com/)) and [the University of Michigan](https://umich.edu/) ([Anthony Opipari](https://topipari.com), [Xiaoxiao Du](https://xiaoxiaodu.net/), [Chad Jenkins](https://ocj.name/))
+
 This course builds on and is indebted to these existing courses (as a “star” and a "fork" in the open source sense):
 - [University of Michigan - ROB 498-011 & 599-011: Deep Learning for Robot Perception](https://deeprob.org/w24/){:target="_blank"} instructed by [Xiaoxiao Du](https://xiaoxiaodu.net/){:target="_blank"}, [Anthony Opipari](https://topipari.com){:target="_blank"}, and [Chad Jenkins](https://ocj.name/){:target="_blank"}
 - [University of Minnesota - CSCI5980: Deep Learning for Robot Perception and Manipulation](https://rpm-lab.github.io/CSCI5980-Spr23-DeepRob){:target="_blank"} instructed by [Karthik Desingh](https://karthikdesingh.com/){:target="_blank"}, in collaboration with [Anthony Opipari](https://topipari.com){:target="_blank"} and [Chad Jenkins](https://ocj.name/){:target="_blank"} from the University of Michigan.
@@ -41,7 +43,7 @@ The first half of the course will cover deep learning fundamentals leaning towar
 - Semantic segmentation 
 - Imitation learning
 
-The second half of the course will switch to seminar style covering following advanced topics in robot perception and manipulation via discussing publications. These topics will be highly related to the final projects the student teams choose to work on. Below are a few topics that could be of interest in this course. 
+The second half of the course will shift to a seminar-style format, covering advanced topics in robot perception and manipulation through discussions of relevant publications. These topics will closely align with the final projects chosen by the student teams. Below are some potential topics that may be of interest for this course.
 
 - Network architectures for other sensing modes
   - RGBD or multiview
@@ -114,11 +116,11 @@ You will complete 5 programming [projects](/CSCI5980-F24-DeepRob/projects/) over
 
 ## Final Project
 
-Instead of a final exam at the end of the semester, you will work on a final project through out the semester. After a few weeks on reading and brainstorming excercises, a team will be formed for the final project. Each team will have 2 to 3 students. 
+Instead of a final exam, you will work on a final project throughout the semester. After a few weeks of reading and brainstorming exercises, teams will be formed, each consisting of 2 to 3 students.
 
 This semester-long activity for the final project will entail several activities and deliverables: (1) brainstorming exercises, (2) individual paper readings, (3) forming groups, (4) team brainstorming exercises to select the final project, (5) an in-class student team lecture covering background and a detailed paper discussion, (6) creating a real-world or simulation setup for a robot manipulation task to facilitate data collection, (7) neural network architecture development, (8) defining training objectives, strategies, logging, and progress visualization, (9) evaluation of both training and task performance, and (10) creating a final video and presenting a poster.
 
-The objective of the final project is for you to gain experience with state-of-the-art approaches in deep learning for robot manipulation and develop a sense of how research in the area is conducted..
+The goal of the final project is for you to gain hands-on experience with state-of-the-art approaches in deep learning for robot manipulation, while also developing an understanding of how research in this field is conducted.
 
 ## Grading Policy
 
