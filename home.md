@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div class="banner-container">
-<img src="{{site.baseurl}}/assets/images/umn_banner_F24_.jpg" alt="Banner" style="width:100%;">
+<img src="/CSCI5980-F24-DeepRob/assets/images/umn_banner_F24_.jpg" alt="Banner" style="width:100%;">
 <div class="banner-info">
 	<!-- <div class="banner-title">DeepRob</div> -->
 	<!-- <div class="banner-subtitle">Deep Learning for Robot Perception</div> -->
