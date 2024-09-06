@@ -14,10 +14,10 @@ This portion of the dataset is catered for 6 degrees-of-freedom rigid body objec
 
 The dataset is available for download on [Google Drive ![](/assets/logos/logo_drive_2020q4_color_2x_web_64dp.png){: .text-logo }](https://drive.google.com/file/d/15rhwXhzHGKtBcxJAYMWJG7gN7BLLhyAq/view?usp=share_link){: target="_blank" rel="noopener noreferrer"}.
 
-We provide the [`PROPSPoseDataset`](/CSCI5980-Spr23-DeepRob/assets/projects/PROPSPoseDataset.py), a PyTorch dataset class, to support development with and use of the PROPS Pose dataset.
+We provide the [`PROPSPoseDataset`](/CSCI5980-F24-DeepRob/assets/projects/PROPSPoseDataset.py), a PyTorch dataset class, to support development with and use of the PROPS Pose dataset.
 
 ## Examples
 
 Sample images and labels for each category in the PROPS Pose dataset are included below:
 
-![Sample animation showing PROPS pose samples](/CSCI5980-Spr23-DeepRob/assets/images/props_pose.gif){: .data-img }
+![Sample animation showing PROPS pose samples](/CSCI5980-F24-DeepRob/assets/images/props_pose.gif){: .data-img }

@@ -14,10 +14,10 @@ This portion of the dataset is catered for image classification tasks. The forma
 
 The dataset is available for download on [Google Drive ![](/assets/logos/logo_drive_2020q4_color_2x_web_64dp.png){: .text-logo }](https://drive.google.com/file/d/1C8_JFsnPVm392C-S1rH0y4HFfNkdMlXi/view?usp=share_link){: target="_blank" rel="noopener noreferrer"}.
 
-We provide the [`PROPSClassificationDataset`](/CSCI5980-Spr23-DeepRob/assets/projects/PROPSClassificationDataset.py), a PyTorch dataset class, to support development with and use of the PROPS Classification dataset.
+We provide the [`PROPSClassificationDataset`](/CSCI5980-F24-DeepRob/assets/projects/PROPSClassificationDataset.py), a PyTorch dataset class, to support development with and use of the PROPS Classification dataset.
 
 ## Examples
 
 Sample images of each category in the PROPS Classification dataset are included below:
 
-![Sample images from PROPS classification dataset](/CSCI5980-Spr23-DeepRob/assets/images/props_classification.webp){: .data-img }
+![Sample images from PROPS classification dataset](/CSCI5980-F24-DeepRob/assets/images/props_classification.webp){: .data-img }
