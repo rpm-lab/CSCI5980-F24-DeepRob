@@ -6,9 +6,28 @@ nav_order: 1
 permalink: /
 ---
 
-# Deep Learning for Robot Manipulation
+<div class="banner-container">
+<img src="{{site.baseurl}}/assets/images/umn_banner_F24_.jpg" alt="Banner" style="width:100%;">
+<div class="banner-info">
+	<!-- <div class="banner-title">DeepRob</div> -->
+	<!-- <div class="banner-subtitle">Deep Learning for Robot Perception</div> -->
+<!-- 	<img  src="{{site.baseurl}}/assets/logos/DeepRob.svg" alt="DeepRob"/> -->
+
+<div class="banner-sub-info">
+	<div class="banner-text">
+	CSCI 5980
+	</div>
+	<div class="banner-text">
+	Fall 2024 at the University of Minnesota
+	</div>
+</div>
+
+</div>
+
+
+<!-- # Deep Learning for Robot Manipulation
 ## CSCI5980 Fall 2024 at The University of Minnesota - Twin Cities
-{: .fs-6 .fw-300 }
+{: .fs-6 .fw-300 } -->
 ## M, W 9:45AM-11:00PM CT - Applebay Hall 102 
 {: .fs-5 .fw-300 }
 
