@@ -29,7 +29,7 @@ permalink: /
 <!-- # Deep Learning for Robot Manipulation
 ## CSCI5980 Fall 2024 at The University of Minnesota - Twin Cities
 {: .fs-6 .fw-300 } -->
-# Meeting Time: M, W 9:45AM-11:00PM CT - Applebay Hall 102
+## Meeting Time: M, W 9:45AM-11:00PM CT - Applebay Hall 102
 <!-- {: .fs-5 .fw-300 } -->
 
 <!-- This website describes a course still in development to be offered in the Spring 2023 semester.
@@ -39,7 +39,7 @@ This course covers the necessary background of neural-network-based deep learnin
 
 This course is being offered at the University of Minnesota ([Karthik Desingh](https://karthikdesingh.com/)).
 
-This course is being offered through a Distributed Teaching Collaborative between faculty at [the University of Minnesota](https://twin-cities.umn.edu/) ([Karthik Desingh](https://karthikdesingh.com/)) and [the University of Michigan](https://umich.edu/) ([Anthony Opipari](https://topipari.com), [Xiaoxiao Du](https://xiaoxiaodu.net/), [Chad Jenkins](https://ocj.name/))
+This course is being developed-maintained-offered through a Distributed Teaching Collaborative between faculty at [the University of Minnesota](https://twin-cities.umn.edu/) ([Karthik Desingh](https://karthikdesingh.com/)) and [the University of Michigan](https://umich.edu/) ([Anthony Opipari](https://topipari.com), [Xiaoxiao Du](https://xiaoxiaodu.net/), [Chad Jenkins](https://ocj.name/))
 
 
 This course builds on and is indebted to these existing courses (as a “star” and a "fork" in the open source sense):
