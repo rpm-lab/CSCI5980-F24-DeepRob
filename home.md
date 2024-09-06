@@ -23,6 +23,7 @@ permalink: /
 </div>
 
 </div>
+</div>
 
 
 <!-- # Deep Learning for Robot Manipulation
