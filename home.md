@@ -29,8 +29,8 @@ permalink: /
 <!-- # Deep Learning for Robot Manipulation
 ## CSCI5980 Fall 2024 at The University of Minnesota - Twin Cities
 {: .fs-6 .fw-300 } -->
-# M, W 9:45AM-11:00PM CT - Applebay Hall 102 
-{: .fs-5 .fw-300 }
+# Meeting Time: M, W 9:45AM-11:00PM CT - Applebay Hall 102
+<!-- {: .fs-5 .fw-300 } -->
 
 <!-- This website describes a course still in development to be offered in the Spring 2023 semester.
 {: .text-red-300 .bg-yellow-200 .fs-4 .fw-500} -->
