@@ -35,7 +35,7 @@ The objective of this project is to refresh your memory of working with the [Pyt
 
 5. <b>Download final implementation</b>
     - After implementing all features, <b>save your work</b> and download the completed `*.ipynb` and `*.py` files. 
-    - The last cell of the `pytorch101.ipynb` notebook will generate a `uniqueid_uid_P0.zip` file. The zip file should include `pytorch101.ipynb` and `pytorch101.py` for this assignment.
+    - The last cell of the `pytorch101.ipynb` notebook will generate a `internetid_umid_P0.zip` file (e.g. `kdesingh_1234567_P0.zip`). The zip file should include `pytorch101.ipynb` and `pytorch101.py` for this assignment.
 
 6. <b>Submit your python and notebook files for grading</b>
     - Upload your files to the [Autograder](https://autograder.io/web/project/2427){: target="_blank" rel="noopener noreferrer"} for grading consideration. **No points given to this project**.
