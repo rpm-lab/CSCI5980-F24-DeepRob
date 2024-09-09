@@ -20,7 +20,7 @@ has_toc: false
 --- -->
 
 
-## [Project 0](/CSCI5980-F24-DeepRob/projects/)
+## [Project 0](/CSCI5980-F24-DeepRob/projects/project0)
 
 Introduction to Python, PyTorch and Google Colab
 
