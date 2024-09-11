@@ -31,19 +31,19 @@ The objective of this project is to refresh your memory of working with the [Pyt
         - To avoid experiencing Colab usage limits, save and close your notebooks once finished working.
 
 4. <b>Submit your implementation for Autograder feedback</b>
-    - Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 0 Autograder](https://cse-ag-csci5980.cs.umn.edu/web/course/3){: target="_blank" rel="noopener noreferrer"}. You may submit to the Autograder for feedback up to 2 times per day.
+    - Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 0 Autograder](https://cse-ag-csci5980.cs.umn.edu/web/project/5){: target="_blank" rel="noopener noreferrer"}. You may submit to the Autograder for feedback up to 5 times per day.
 
 5. <b>Download final implementation</b>
     - After implementing all features, <b>save your work</b> and download the completed `*.ipynb` and `*.py` files. 
-    - The last cell of the `pytorch101.ipynb` notebook will generate a `internetid_umid_P0.zip` file (e.g. `kdesingh_1234567_P0.zip`). The zip file should include `pytorch101.ipynb` and `pytorch101.py` for this assignment.
+    <!-- - The last cell of the `pytorch101.ipynb` notebook will generate a `internetid_umid_P0.zip` file (e.g. `kdesingh_1234567_P0.zip`). The zip file should include `pytorch101.ipynb` and `pytorch101.py` for this assignment. -->
 
 6. <b>Submit your python and notebook files for grading</b>
-    - Upload your files to the [Autograder](https://autograder.io/web/project/2427){: target="_blank" rel="noopener noreferrer"} for grading consideration. **No points given to this project**.
+    - Upload your files to the [Autograder](https://cse-ag-csci5980.cs.umn.edu/web/project/5){: target="_blank" rel="noopener noreferrer"} for grading consideration. **No points given to this project**.
 
 ## Deadline
 
-This project is due on <b>Thursday, September 16th at 11:59pm CT</b>. We suggest starting as soon as possible.
+This project is due on <b>Monday, September 16th at 11:59pm CT</b>. We suggest starting as soon as possible.
 
 ## Grading
 
-This project will be graded by the [Autograder](https://cse-ag-csci5980.cs.umn.edu/web/course/3){: target="_blank" rel="noopener noreferrer"}. **No points given to this project**. You may submit to the Autograder for feedback up to 2 times per day.
+This project will be graded by the [Autograder](https://cse-ag-csci5980.cs.umn.edu/web/project/5){: target="_blank" rel="noopener noreferrer"}. **No points given to this project**. You may submit to the Autograder for feedback up to 5 times per day.
