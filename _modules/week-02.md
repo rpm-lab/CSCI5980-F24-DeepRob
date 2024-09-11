@@ -7,4 +7,4 @@ Sept 09
 
 
 Sept 11
-: **Lec 3**{: .label .label-purple }[Linear Classifiers]()
+: **Lec 3**{: .label .label-purple }[Linear Classifiers](/CSCI5980-F24-DeepRob/slides/minn_deeprob_f24_03_linear_classifiers.pdf)
