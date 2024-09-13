@@ -22,7 +22,7 @@ The objective of this project is to gain experience building a machine learning 
 ## Instructions
 
 1. <b>Download the project starter code</b>
-    - [Project 1 starter code: P1.zip](https://drive.google.com/file/d/1JFG7TSiEsDsO0OQoB1N4XtBZ02xJhvWu/view?usp=sharing)
+    - [Project 1 starter code: P1.zip](https://drive.google.com/file/d/1CDoSmhZnuST1mvS_qH7d1s-4KBMMX7i5/view?usp=sharing)
 
 2. <b>Unzip the starter code and upload to Google Drive</b>
     - Once unzipped, you should find a root directory titled 'P1'. The 'P1' directory contains all starter code and files needed to complete this project. Please upload the 'P1' directory to your [Google Drive](https://drive.google.com/){:target="_blank"}.
