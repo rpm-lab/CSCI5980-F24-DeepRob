@@ -366,17 +366,41 @@ Object Model Datasets:
 - [Transporter Networks: Rearranging the Visual World for Robotic Manipulation](https://arxiv.org/abs/2010.14406), Zeng et al., 2020
 
 
+# Perception Beyond Vision
+
+### Specialized Sensors
+{: .no_toc }
+
+- [Pigeons (Columba livia) as Trainable Observers of Pathology and Radiology Breast Cancer Images](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141357){: target="_blank" rel="noopener noreferrer"}, Levenson et al., 2015
+
+- [Automatic color correction for 3D reconstruction of underwater scenes](https://ieeexplore.ieee.org/abstract/document/7989601){: target="_blank" rel="noopener noreferrer"}, Skinner et al., 2017
+
+- [GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force](https://www.mdpi.com/1424-8220/17/12/2762){: target="_blank" rel="noopener noreferrer"}, Yuan et al., 2017
+
+- [Classification of Household Materials via Spectroscopy](https://arxiv.org/abs/1805.04051){: target="_blank" rel="noopener noreferrer"}, Erickson et al., 2018
+
+- [Through-Wall Human Pose Estimation Using Radio Signals](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf){: target="_blank" rel="noopener noreferrer"}, Zhao et al., 2018
+
+- [A bio-hybrid odor-guided autonomous palm-sized air vehicle](https://iopscience.iop.org/article/10.1088/1748-3190/abbd81){: target="_blank" rel="noopener noreferrer"}, Anderson et al., 2020
+
+- [Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization](https://rpg.ifi.uzh.ch/docs/ICRA19_Bryner.pdf){: target="_blank" rel="noopener noreferrer"}, Bryner et al., 2019
+
+- [SoundSpaces: Audio-Visual Navigation in 3D Environments](https://arxiv.org/abs/1912.11474){: target="_blank" rel="noopener noreferrer"}, Chen et al., 2019
+
+- [Neural Implicit Surface Reconstruction using Imaging Sonar](https://arxiv.org/abs/2209.08221){: target="_blank" rel="noopener noreferrer"}, Qadri et al., 2022
+
+
 # More Frontiers
 
 ### Interpreting Deep Learning Models
 
-- [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/abs/1312.6034){:target="_blank"}, Simonyan et al., 2013
+- [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/abs/1312.6034){: target="_blank" rel="noopener noreferrer"}, Simonyan et al., 2013
 
-- [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391){:target="_blank"}, Selvaraju et al., 2016
+- [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391){: target="_blank" rel="noopener noreferrer"}, Selvaraju et al., 2016
 
-- [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/){:target="_blank"}, Olah et al., 2018
+- [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/){: target="_blank" rel="noopener noreferrer"}, Olah et al., 2018
 
-- [Multimodal Neurons in Artificial Neural Networks](https://distill.pub/2021/multimodal-neurons/){:target="_blank"}, Goh et al., 2021
+- [Multimodal Neurons in Artificial Neural Networks](https://distill.pub/2021/multimodal-neurons/){: target="_blank" rel="noopener noreferrer"}, Goh et al., 2021
 
 
 ### Fairness and Ethics
@@ -385,16 +409,39 @@ Object Model Datasets:
 
 - [Saving Face: Investigating the Ethical Concerns of Facial Recognition Auditing](https://dl.acm.org/doi/abs/10.1145/3375627.3375820){:target="_blank"}, Raji et al., 2020
 
-### Articulated and Deformable Objects
 
-- [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/abs/1802.00434){:target="_blank"}, Xiao et al., 2018
+### Articulated Objects
 
-- [Differentiable Nonparametric Belief Propagation](https://arxiv.org/abs/2101.05948){:target="_blank"}, Opipari et al., 2021
+- [Autonomous Tool Construction Using Part Shape and Attachment Prediction](http://www.roboticsproceedings.org/rss15/p09.pdf){: target="_blank" rel="noopener noreferrer"}, Nair et al., 2019
 
+- [Parts-Based Articulated Object Localization in Clutter Using Belief Propagation](https://arxiv.org/abs/2008.02881){: target="_blank" rel="noopener noreferrer"}, Pavlasek et al., 2020
+
+- [Category-Level Articulated Object Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Category-Level_Articulated_Object_Pose_Estimation_CVPR_2020_paper.html){: target="_blank" rel="noopener noreferrer"}, Li et al., 2020
+
+- [Differentiable Nonparametric Belief Propagation](https://arxiv.org/abs/2101.05948){: target="_blank" rel="noopener noreferrer"}, Opipari et al., 2021
+
+- [Category-Independent Articulated Object Tracking with Factor Graphs](https://arxiv.org/abs/2205.03721){: target="_blank" rel="noopener noreferrer"}, Heppert et al., 2022
+
+- [Kineverse: A Symbolic Articulation Model Framework for Model-Agnostic Mobile Manipulation](https://arxiv.org/abs/2012.05362){: target="_blank" rel="noopener noreferrer"}, Röfer et al., 2022
+
+
+### Deformable Objects
+
+- [DensePose: Dense Human Pose Estimation In The Wild](https://arxiv.org/abs/1802.00434){: target="_blank" rel="noopener noreferrer"}, Xiao et al., 2018
+
+- [FabricFlowNet: Bimanual Cloth Manipulation with a Flow-based Policy](https://arxiv.org/abs/2111.05623){: target="_blank" rel="noopener noreferrer"}, Weng et al., 2021
+
+- [DextAIRity: Deformable Manipulation Can be a Breeze](https://arxiv.org/abs/2203.01197){: target="_blank" rel="noopener noreferrer"}, Xu et al., 2022
+
+- [Self-supervised Transparent Liquid Segmentation for Robotic Pouring](https://arxiv.org/abs/2203.01538){: target="_blank" rel="noopener noreferrer"}, Narasimhan et al., 2022
+
+- [Visio-tactile Implicit Representations of Deformable Objects](https://arxiv.org/abs/2202.00868){: target="_blank" rel="noopener noreferrer"}, Wi et al., 2022
 
 ### Transparent Objects
 
 - [LIT: Light-field Inference of Transparency for Refractive Object Localization](https://arxiv.org/abs/1910.00721){:target="_blank"}, Zhou et al., 2019
+
+- [Multi-modal Transfer Learning for Grasping Transparent and Specular Objects](https://arxiv.org/abs/2006.00028){: target="_blank" rel="noopener noreferrer"}, Weng et al., 2020
 
 - [Dex-NeRF: Using a Neural Radiance Field to Grasp Transparent Objects](https://arxiv.org/abs/2110.14217){:target="_blank"}, Ichnowski et al., 2021
 
@@ -403,6 +450,39 @@ Object Model Datasets:
 - [TransNet: Category-Level Transparent Object Pose Estimation](https://arxiv.org/abs/2208.10002){:target="_blank"}, Zhang et al., 2022
 
 
+
 ### Dynamic Scenes
 
-- [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2011.13961){:target="_blank"}, Pumarola et al., 2020
+- [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2011.13961){: target="_blank" rel="noopener noreferrer"}, Pumarola et al., 2020
+
+- [3D Neural Scene Representations for Visuomotor Control](https://arxiv.org/abs/2107.04004){: target="_blank" rel="noopener noreferrer"}, Li et al., 2021
+
+- [HexPlane: A Fast Representation for Dynamic Scenes](https://arxiv.org/abs/2301.09632){: target="_blank" rel="noopener noreferrer"}, Cao and Johnson, 2023
+
+
+
+### Beyond 2D Convolutions
+
+- [Learning Decentralized Controllers for Robot Swarms with Graph Neural Networks](https://arxiv.org/abs/1903.10527){: target="_blank" rel="noopener noreferrer"}, Tolstaya et al., 2019
+
+- [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/){: target="_blank" rel="noopener noreferrer"}, Sanchez-Lengeling et al., 2021
+
+
+### Reinforcement Learning
+
+- [Deep Reinforcement Learning from Human Preferences](https://proceedings.neurips.cc/paper_files/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf){: target="_blank" rel="noopener noreferrer"}, Christiano et al., 2017
+
+- [Understanding RL Vision](https://distill.pub/2020/understanding-rl-vision/){: target="_blank" rel="noopener noreferrer"}, Hilton et al., 2020
+
+
+### Generative Modeling
+
+- [WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images](https://arxiv.org/abs/1702.07392){: target="_blank" rel="noopener noreferrer"}, Li et al., 2017
+
+- [Differentiable Particle Filters through Conditional Normalizing Flow](https://arxiv.org/abs/2107.00488){: target="_blank" rel="noopener noreferrer"}, Chen et al., 2021
+
+- [Planning with Diffusion for Flexible Behavior Synthesis](https://arxiv.org/abs/2205.09991){: target="_blank" rel="noopener noreferrer"}, Janner et al., 2022
+
+- [Anything-3D: Towards Single-view Anything Reconstruction in the Wild](https://arxiv.org/abs/2304.10261){: target="_blank" rel="noopener noreferrer"}, Shen et al., 2023
+
+
