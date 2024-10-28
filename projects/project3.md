@@ -50,7 +50,7 @@ The objective of this project is to gain experience building and training convol
 
 ## Deadline
 
-This project is due on <b>Monday, October 28th at 11:59pm CT</b>. We suggest starting as soon as possible.
+This project is due on <b>Friday, November 1st at 11:59pm CT</b>. We suggest starting as soon as possible.
 
 ## Grading
 
