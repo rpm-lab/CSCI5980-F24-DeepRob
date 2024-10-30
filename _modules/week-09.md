@@ -7,4 +7,4 @@ Oct 28
 
 
 Oct 30
-: **Lec 17**{: .label .label-purple }[Pre-training Representations]()
+: **Lec 17**{: .label .label-purple }[Pre-training](/CSCI5980-F24-DeepRobslides/minn_deeprob_f24_17_pretraining.pdf)
