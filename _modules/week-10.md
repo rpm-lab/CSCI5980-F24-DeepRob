@@ -7,4 +7,4 @@ Nov 04
 
 
 Nov 06
-: **Student Lec 02**{: .label .label-yellow }[PointNets and 3D Networks]()
+: **Student Lec 02**{: .label .label-yellow }[PointNets and 3D Networks](/CSCI5980-F24-DeepRob/slides/G3_Student_Lecture_02.pdf)
