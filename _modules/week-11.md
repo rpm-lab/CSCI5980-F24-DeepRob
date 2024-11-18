@@ -7,4 +7,4 @@ Nov 11
 
 
 Nov 13
-: **Student Lec 03**{: .label .label-yellow }[NeRFs,Gaussian Splatting and Manipulation]()
+: **Student Lec 03**{: .label .label-yellow }[NeRFs,Gaussian Splatting and Manipulation](/CSCI5980-F24-DeepRob/slides/G2_Student_Lecture_03.pdf)
