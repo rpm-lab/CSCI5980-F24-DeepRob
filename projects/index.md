@@ -40,9 +40,9 @@ Detection using Convolutional Neural Networks
 
 State Estimation with Deep Learning
 
-## [Project 5](/CSCI5980-F24-DeepRob/projects/)
+<!-- ## [Project 5](/CSCI5980-F24-DeepRob/projects/)
 
-Imitation Learning
+Imitation Learning -->
 
 <!-- ## Final Project
 

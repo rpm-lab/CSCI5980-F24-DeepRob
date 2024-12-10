@@ -128,10 +128,9 @@ Course grades will be determined according to the following criteria:
 
  - Project 0 (optional and **not graded**)
  - Project 1 (Linear classfication):         5%
- - Project 2 (Fully-connected and CNNs) :   10%
- - Project 3 (Object detection with CNNs):  10%
- - Project 4 (Object pose estimation):      10%
- - Project 5 (Imitation learning):          10%
+ - Project 2 (Fully-connected and CNNs) :   13%
+ - Project 3 (Object detection with CNNs):  13%
+ - Project 4 (Object pose estimation):      14%
  
  - Final Project:
    - Individual brainstorming and reading:   5%
